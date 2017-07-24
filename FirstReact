@@ -1,0 +1,7 @@
+const Button = function(props){
+	return (
+		<button>Go</button>
+	);
+};
+
+ReactDOM.render(<Button />,mountNode);
